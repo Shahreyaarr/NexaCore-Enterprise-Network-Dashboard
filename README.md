@@ -2,14 +2,14 @@
   
 # 🌐 NexaCore Enterprise Network Dashboard
 
-**A professional, highly interactive Network Operations Center (NOC) & Data Center Management application built alongside a Cisco CCNA certification.**
+**A professional, highly interactive Network Security & Operations Center (NOC) application, built to visualize enterprise security architectures and network management.**
 
 ### 🚀 [Live Demo: nexacoredashboard.web.app](https://nexacoredashboard.web.app)
 
 [![React](https://img.shields.io/badge/React-18-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-purple.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC.svg?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Network Security](https://img.shields.io/badge/Network_Security-Focus-red.svg?style=for-the-badge&logo=shield)](https://en.wikipedia.org/wiki/Network_security)
 [![CCNA Ready](https://img.shields.io/badge/CCNA-200--301-success.svg?style=for-the-badge&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 
 </div>
@@ -18,7 +18,7 @@
 
 ## 📖 Overview
 
-NexaCore is a simulated **Enterprise Infrastructure Dashboard** designed for Network Engineers and IT Administrators. It provides a highly detailed, interactive visual interface for managing complex network topologies, VLAN segmentations, IP addressing, and server diagnostics.
+NexaCore is a simulated **Enterprise Infrastructure Dashboard** designed specifically for **Network Security** and IT Administration. It provides a highly detailed, interactive visual interface for managing complex network topologies, VLAN segmentations, IP addressing, and server diagnostics with a focus on securing enterprise perimeters.
 
 This project was developed to bridge the gap between theoretical **CCNA 200-301** concepts and practical, modern software visualization.
 
