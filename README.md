@@ -4,6 +4,8 @@
 
 **A professional, highly interactive Network Operations Center (NOC) & Data Center Management application built alongside a Cisco CCNA certification.**
 
+### 🚀 [Live Demo: nexacoredashboard.web.app](https://nexacoredashboard.web.app)
+
 [![React](https://img.shields.io/badge/React-18-blue.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.0-purple.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
